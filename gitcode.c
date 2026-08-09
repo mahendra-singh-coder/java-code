@@ -1,7 +1,9 @@
 #include<stdio.h>
 int main()
 {
-	int a=5,b=4;
-	printf("sum is ",a+b);
+	int n1=5;
+	int n2=4;
+	int sum=n1+n2;
+	printf("sum is ",sum);
 	return 0;
 }
